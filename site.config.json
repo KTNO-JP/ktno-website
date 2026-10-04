@@ -5,7 +5,7 @@
   "copyFirst": "やってみよう！",
   "copySecond": "を仕事にする。",
   "about": "ホームページをつくる。業務の流れを整える。新しい発信を試す。KTNOは、現場の小さなアイデアを、一緒に使えるカタチへ育てていきます。",
-  "contactEnabled": true,
+  "contactEnabled": false,
   "works": [
     {
       "name": "天花",
@@ -25,5 +25,7 @@
       "description": "事業の情報発信と、更新・運用の流れを整える取り組み。",
       "status": "WEB PROJECT"
     }
-  ]
+  ],
+  "indexingEnabled": false,
+  "contactEmail": "added.tech20000@gmail.com"
 }
