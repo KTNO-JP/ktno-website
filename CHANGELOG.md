@@ -34,3 +34,8 @@
 - Changed intro heading to the exact approved text: アイデアが融合する.
 - Background begins in solid lavender, gathers warm and cool gradient layers with staggered fades and movement, then returns over an 18-second cycle.
 - CSS-only transform/opacity animation adds no video, image downloads, or JavaScript; reduced-motion preference shows a static blended background.
+
+## 2026-10-06 — refined O detail
+- Prior production commit: 2bd0130d32d9a67573ca09a429b42236609c8c60.
+- Replaced the pointed, swollen O accent with a short 3-unit straight line and a balanced 16-unit opening. Preserved the approved thin KTNO letterforms.
+- Prevention: use simple constant-width geometry for small logo details so they stay clean at hero scale.
