@@ -28,3 +28,9 @@
 - Replaced the bold hero text with a lightweight SVG matching the approved thin KTNO wordmark and open O in the brand guideline.
 - Retained the approved main copy and existing background motion. Logo entrance moves as one unit without distorting letter spacing.
 - Prevention: use the approved SVG asset rather than a font substitute for the hero logo.
+
+## 2026-10-06 — color fusion motion and intro copy
+- Prior production commit: c8ca701a95ccfb90e20c427bd96642aaf6112f37.
+- Changed intro heading to the exact approved text: アイデアが融合する.
+- Background begins in solid lavender, gathers warm and cool gradient layers with staggered fades and movement, then returns over an 18-second cycle.
+- CSS-only transform/opacity animation adds no video, image downloads, or JavaScript; reduced-motion preference shows a static blended background.
