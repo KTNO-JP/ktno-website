@@ -17,7 +17,8 @@
       "name": "ファーマゲート",
       "category": "調剤薬局 / WEB",
       "description": "地域の薬局と利用者をつなぐ、店舗情報と導線の整備。",
-      "status": "WEB PROJECT"
+      "status": "WEB PROJECT",
+      "url": "https://pharmagate.co.jp/"
     },
     {
       "name": "三角運送",
@@ -26,6 +27,6 @@
       "status": "WEB PROJECT"
     }
   ],
-  "indexingEnabled": false,
+  "indexingEnabled": true,
   "contactEmail": "added.tech20000@gmail.com"
 }
