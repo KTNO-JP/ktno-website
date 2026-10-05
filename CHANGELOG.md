@@ -43,3 +43,9 @@
 ## 2026-10-06 — service tagline punctuation
 - Prior production commit: e7e0f4e01ebd24e2c516cb0cdf287957662dcf07.
 - Removed the four Japanese commas marked by the user in the WEB, AI, AUTOMATION and CREATIVE short taglines.
+
+## 2026-10-06 — Search Console確認タグ
+- 変更前コミット: 4c87571c4daaa5db3d4a8d8d6393d6de901b97df。
+- Googleが発行したKTNO専用の所有権確認タグを設定とHTML生成に追加。
+- 既存ロゴ・コピー・モーション・集客導線を維持。
+- 再発防止: 再ビルド時にも確認タグを保持する。確認・サイトマップ送信・URL検査の結果は別途記録する。
