@@ -22,3 +22,9 @@
 - トップに相談CTA、相談メールに入力ひな形、ファーマゲートの実績に検証済み公開リンクを追加。
 - 決定済みコピー・4サービス・デザインを維持。費用は個別見積もりと明記。
 - 再発防止: 集客開始時は本番HTMLのrobotsとrobots.txtをセットで確認する。
+
+## 2026-10-05 — approved hero logo
+- Backup / prior production commit: 7b72d967e85845dab8580096d6fbd6442c4c4fba.
+- Replaced the bold hero text with a lightweight SVG matching the approved thin KTNO wordmark and open O in the brand guideline.
+- Retained the approved main copy and existing background motion. Logo entrance moves as one unit without distorting letter spacing.
+- Prevention: use the approved SVG asset rather than a font substitute for the hero logo.
