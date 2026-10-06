@@ -11,20 +11,25 @@
       "name": "天花",
       "category": "飲食 / WEB",
       "description": "お店の世界観と、こだわりの一杯を伝えるホームページ。",
-      "status": "WEB PROJECT"
+      "status": "WEB PROJECT",
+      "url": "https://mellow-cannoli-1cb0a3.netlify.app/",
+      "image": "/works/tenka.webp"
     },
     {
       "name": "ファーマゲート",
       "category": "調剤薬局 / WEB",
       "description": "地域の薬局と利用者をつなぐ、店舗情報と導線の整備。",
       "status": "WEB PROJECT",
-      "url": "https://pharmagate.co.jp/"
+      "url": "https://pharmagate.co.jp/",
+      "image": "/works/pharmagate.webp"
     },
     {
-      "name": "三角運送",
+      "name": "ミスミ運送",
       "category": "運送 / WEB・AUTOMATION",
       "description": "事業の情報発信と、更新・運用の流れを整える取り組み。",
-      "status": "WEB PROJECT"
+      "status": "WEB PROJECT",
+      "url": "https://misumi-transport-adtech.netlify.app/",
+      "image": "/works/misumi.webp"
     }
   ],
   "indexingEnabled": true,

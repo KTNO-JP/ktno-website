@@ -14,3 +14,15 @@
 @keyframes fuse-warm{0%,10%,100%{opacity:0;transform:translate(-18%,-10%) scale(.8)}40%{opacity:.85;transform:translate(-6%,-3%) scale(.95)}65%,80%{opacity:1;transform:translate(5%,4%) scale(1.12)}}
 @keyframes fuse-cool{0%,18%,100%{opacity:0;transform:translate(18%,12%) scale(.8)}48%{opacity:.8;transform:translate(7%,4%) scale(.95)}68%,80%{opacity:1;transform:translate(-6%,-4%) scale(1.12)}}
 @media(prefers-reduced-motion:reduce){.fluid,.fluid::before,.fluid::after{animation:none!important;will-change:auto}.fluid::before,.fluid::after{opacity:1}}
+
+/* Compact, real homepage previews for the portfolio. */
+#works{padding-top:64px;padding-bottom:64px}
+#works .section-title{margin-bottom:28px}
+#works .section-title h2{font-size:clamp(30px,3.4vw,48px);letter-spacing:-.04em}
+#works .section-title span{font-size:14px}
+.works{max-width:960px;gap:24px}
+.work-preview{display:block;aspect-ratio:8/5;overflow:hidden;border:1px solid var(--line);background:#eee}
+.work-preview img{display:block;width:100%;height:100%;object-fit:contain}
+.work h3{font-size:16px;font-weight:500;margin:12px 0 0}
+.work h3 a:hover{text-decoration:underline}
+@media(max-width:540px){#works{padding-top:48px;padding-bottom:48px}.works{max-width:300px;gap:24px}#works .section-title span{margin-top:12px}}
